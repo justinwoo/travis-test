@@ -1,5 +1,5 @@
 language: haskell
 ghc:
-  - "8.6.3"
+  - "8.4.1"
 script:
   - runghc hello.hs
