@@ -1,0 +1,5 @@
+language: haskell
+ghc:
+  - "8.6.3"
+script:
+  - runghc hello.hs
